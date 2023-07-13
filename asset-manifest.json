@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/animegrid/static/js/main.fbb9abbc.js",
+    "static/media/animecatalog.jpg": "/animegrid/static/media/animecatalog.8c47d9fa2b523bde0808.jpg",
+    "static/media/animeprofile.jpg": "/animegrid/static/media/animeprofile.a73e556b70de4f522f24.jpg",
+    "static/media/animecharacter.jpg": "/animegrid/static/media/animecharacter.5d1082093fbdc5471cfc.jpg",
+    "index.html": "/animegrid/index.html",
+    "main.fbb9abbc.js.map": "/animegrid/static/js/main.fbb9abbc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.fbb9abbc.js"
+  ]
+}
