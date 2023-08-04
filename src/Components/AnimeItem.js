@@ -5,7 +5,7 @@ import styled from 'styled-components'
 function AnimeItem() {
     const {id} = useParams()
 
-    //state
+    //state of anime
     const [anime, setAnime] = React.useState({})
     const [characters, setCharacters] = React.useState([])
     const [showMore, setShowMore] = React.useState(false)
